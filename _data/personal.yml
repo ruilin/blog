@@ -1,0 +1,50 @@
+---
+  name: "Ruilin Zheng"
+  # position: "Your Position"
+  # company: "Your Company"
+  location: "Guangzhou, Guandong"
+  email: "zruilin@126.com"
+  gravatar: "https://avatars0.githubusercontent.com/u/6614628?s=460&v=4"
+  bio: |
+    My Short Bio goes here.
+  #activate the social buttons you like by removing the comment
+  social:
+    # google:
+    #   url: "http://plus.google.com/+You/"
+    #   text: "+You"
+    #   btnClass: "btn-google"
+    #   logo: "fa-google"
+
+    # facebook:
+    #  url: "http://facebook.com/yourid"
+    #  text: "/yourid"
+    #  btnClass: "btn-facebook"
+    #  logo: "fa-facebook"
+
+    # twitter:
+    #   url: "http://twitter.com/yourid"
+    #   text: "/yourid"
+    #   btnClass: "btn-twitter"
+    #   logo: "fa-twitter"
+
+    # linkedin:
+    #   url: "https://www.linkedin.com/in/yourid"
+    #   text: "/yourid"
+    #   btnClass: "btn-linkedin"
+    #   logo: "fa-linkedin"
+    github:
+      url: "http://github.com/ruilin"
+      text: "/ruilin"
+      btnClass: "btn-github"
+      logo: "fa-github"
+    stackoverflow:
+      url: "https://stackoverflow.com/users/10481972/ruilin"
+      text: "/ruilin"
+      btnClass: "btn-stackoverflow"
+      logo: "fa-stack-overflow"
+    # soundcloud:
+    #   url: "http://soundcloud.com/yourid"
+    #   text: "/yourid"
+    #   btnClass: "btn-soundcloud"
+    #   logo: "fa-soundcloud"
+       
