@@ -7,8 +7,6 @@ logo_location: "https://avatars2.githubusercontent.com/u/6614628?s=400&u=cbf14bb
 #baseurl: "" # the subpath of your site, e.g. /blog/
 #url: "" # the base hostname & protocol for your site
 
-# baseurl: "https://ruilin.github.io/blog"
-
 # Build settings
 markdown: kramdown
 kramdown:
