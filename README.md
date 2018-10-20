@@ -2,7 +2,7 @@
 
 For technology exchange and study.
 
-https://ruilin.github.io/blog/
+To my [blog](https://ruilin.github.io/blog/).
 
-powered by
-https://github.com/itsrifat/rifyll
+Powered by
+[rifyll](https://github.com/itsrifat/rifyll).
