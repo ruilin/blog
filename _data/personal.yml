@@ -42,6 +42,11 @@
       text: "/ruilin"
       btnClass: "btn-stackoverflow"
       logo: "fa-stack-overflow"
+    jianshu:
+      url: "https://www.jianshu.com/u/04b95ab8d251"
+      text: "简书/ruilin"
+      btnClass: "btn-blog"
+      logo: "fa-blog"
     # soundcloud:
     #   url: "http://soundcloud.com/yourid"
     #   text: "/yourid"
