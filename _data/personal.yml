@@ -45,8 +45,8 @@
     jianshu:
       url: "https://www.jianshu.com/u/04b95ab8d251"
       text: "简书/ruilin"
-      btnClass: "btn-blog"
-      logo: "fa-blog"
+      btnClass: "fa-google"
+      logo: ""
     # soundcloud:
     #   url: "http://soundcloud.com/yourid"
     #   text: "/yourid"
