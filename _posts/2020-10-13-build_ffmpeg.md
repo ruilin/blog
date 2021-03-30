@@ -2,7 +2,6 @@
 layout: post
 tags: FFmpeg ndk
 date: 2020-10-13
-thumbnail: assets/img/c001.jpg
 <!-- thumbnail:  -->
 title: 编译最新版FFmpeg for Android NDK(r21)
 published: true
