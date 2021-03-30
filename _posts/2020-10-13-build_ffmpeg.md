@@ -51,6 +51,7 @@ vim build_android.sh
 
 - 复制以下shell脚本到 build_android.sh：
 （注意：NDK需要修改成自己的路径）
+
 ```
 #!/bin/bash
 # 以下路径需要修改成自己的NDK目录
@@ -202,11 +203,21 @@ dlopen failed: cannot locate symbol "iconv_open"，”iconv_close“
 ```
 只能降低API版本，修改build_android.sh：`API=26`
 
+
+
+
 [参考]
+
 [1] https://yesimroy.gitbooks.io/android-note/content/compile_ffmpeg_for_android.html
+
 [2] https://stackoverflow.com/questions/57681336/build-ffmpeg-4-2-with-android-ndk-r20
+
 [3] https://www.jianshu.com/p/feab970fd74c
+
 [4] https://juejin.im/post/6844903945496690696
+
 [5] https://blog.csdn.net/marco_0631/article/details/73292199
+
 [6] https://www.jianshu.com/p/fd938a51b01f
+
 [7] https://github.com/tianshaokai/ffmpegbuild
