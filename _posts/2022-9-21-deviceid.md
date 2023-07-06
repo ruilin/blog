@@ -42,7 +42,7 @@ SDCard访问权限演变：
 - OAID
   - 在高版本系统增加作为因子，国内厂商普遍在Android10之后开始支持OAID：
 <div>    
-	<img src="https://raw.githubusercontent.com/ruilin/blog/master/assets/img/d002.png" style="width: 800px"/>
+	<img src="https://raw.githubusercontent.com/ruilin/blog/master/assets/img/d002.png" style="width: 600px"/>
 </div>
 
 ### 最终方案
