@@ -2,7 +2,7 @@
 layout: post
 tags: Android DeviceId 隐私权限
 date: 2022-9-21
-<!-- thumbnail:  -->
+thumbnail: assets/img/f001.png
 title: Android生成设备唯一ID方案
 published: true
 ---
