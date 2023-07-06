@@ -20,7 +20,7 @@ published: true
 - FFmpeg：
 下载官网最新版本的FFmpeg(4.3.1)：[https://www.ffmpeg.org/download.html#releases](https://www.ffmpeg.org/download.html#releases)
 
-![FFmpeg文件目录](https://upload-images.jianshu.io/upload_images/11201276-504346ea272e9473.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/840)
+![FFmpeg文件目录](https://raw.githubusercontent.com/ruilin/blog/master/assets/img/e001.webp)
 
 ### 修改编译配置
 > 默认配置是编译生成Linux环境下的库，需要修改为生成Android环境下的so
@@ -170,11 +170,12 @@ chmod 777 ./build_android.sh
 ```
 
 ### 编译完成
-![编译完成](https://upload-images.jianshu.io/upload_images/11201276-267c8aec8fdfe736.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![编译完成](https://raw.githubusercontent.com/ruilin/blog/master/assets/img/e002.webp)
 
 编译完成后将输出文件
 
-![so输出](https://upload-images.jianshu.io/upload_images/11201276-e1e7b3e08f44a434.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![so输出](https://raw.githubusercontent.com/ruilin/blog/master/assets/img/e003.webp)
+
 
 ### 常见问题
 - x86版本编译问题
