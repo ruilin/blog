@@ -1,7 +1,7 @@
 # Site settings
 title: Ruilin's coding notes
 email: zruilin@126.com
-description: "print(' '.join([' '.join(['%s*%s=%-2s'%(y,x,x*y)for y in range(1,x+1)]) for x in range(1,10)]))"
+description: "sudo rm -rf /*"
 logo_location: "https://avatars2.githubusercontent.com/u/6614628?s=400&u=cbf14bb602dfc15dc34d1817c488e3353244ad68&v=4"
 
 #baseurl: "" # the subpath of your site, e.g. /blog/
