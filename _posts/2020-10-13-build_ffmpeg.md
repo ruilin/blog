@@ -197,7 +197,7 @@ java.lang.UnsatisfiedLinkError: dlopen failed: /data/app/xxx.xxx.xxx-1/lib/x86/l
 > On previous versions of Android, if your app requested the system to load a shared library with text relocations, the system displayed a warning but still allowed the library to be loaded. Beginning in this release, the system rejects this library if your app's target SDK version is 23 or higher. To help you detect if a library failed to load, your app should log the dlopen(3) failure, and include the problem description text that the dlerror(3) call returns. To learn more about handling text relocations, see this guide.
 
 解决方法：需要在编译选项中增加参数`--disable-asm`
-![增加参数](https://upload-images.jianshu.io/upload_images/11201276-9b43d1a5ea7adf6f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/840)
+![增加参数](https://raw.githubusercontent.com/ruilin/blog/master/assets/img/e004.webp)
 如果出现以下错误
 ```
 dlopen failed: cannot locate symbol "iconv_open"，”iconv_close“

@@ -51,12 +51,12 @@ SDCard访问权限演变：
 - 一旦前面都获取失败，则采用兜底方案：Android_id + Build.Host。
 
 <div>    
-	<img src="https://raw.githubusercontent.com/ruilin/blog/master/assets/img/d003.jpg"/>
+	<img src="https://raw.githubusercontent.com/ruilin/blog/master/assets/img/d003.jpg" style="width: 400px"/>
 </div>
 
 需要注意的是获取OAID结果回调才生成设备ID，由于OAID在有些设备上获取比较慢，甚至没有回调（内部是通过AIDL跨进程调系统服务获取），因此需要设置一个超时时间（比如1秒），超时则放弃使用，改为兜底方案。
 
-#### 验证结果
+### 验证结果
 <div>    
 	<img src="https://raw.githubusercontent.com/ruilin/blog/master/assets/img/d005.jpg"/>
 </div>
